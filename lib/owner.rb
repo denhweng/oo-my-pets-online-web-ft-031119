@@ -3,5 +3,5 @@ class Owner
   attr_accessor :pets :cat :dog :fish :names
   
   @@all = []
-  @@pets = {fishes: [], cats: [], dogs: []}
+  @@pets = { fishes: [], cats: [], dogs: [] }
 end
